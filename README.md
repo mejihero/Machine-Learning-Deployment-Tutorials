@@ -13,9 +13,11 @@ Sample end to end projects from data collection to putting models into productio
 
 `python model.py`
 
-`python app.py
+`python app.py`
 
-Citing
+## Citing
+
+```
 @misc{Abhinav:2019,
   Author = {Abhinav Sagar},
   Title = {Machine-Learning-Deployment-Tutorials},
@@ -24,4 +26,5 @@ Citing
   Journal = {GitHub repository},
   Howpublished = {\url{https://github.com/abhinavsagar/Machine-Learning-Deployment-Tutorials}}
 }
+```
 
