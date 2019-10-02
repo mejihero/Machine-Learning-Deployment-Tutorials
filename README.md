@@ -1,5 +1,7 @@
 # Machine-Learning-Deployment-Tutorials
-Sample end to end projects from data collection to putting models into production
+Sample end to end projects from data collection to putting models into production.
+
+Check out the corresponding medium blog post [https://towardsdatascience.com/how-to-easily-deploy-machine-learning-models-using-flask-b95af8fe34d4](https://towardsdatascience.com/how-to-easily-deploy-machine-learning-models-using-flask-b95af8fe34d4).
 
 ## Environment and tools
 1. scikit-learn
